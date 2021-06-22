@@ -1,7 +1,7 @@
 # 237dash
 A React dashboard boilerplate for REST API, Fully customisable 
 This project is for symplify creation of admin dashboard. 
-# The Goal is :  
+# The Goal  
 1 - Create a simple JSON config per page
 2 - Provide a fully and multi-level of customisation of Page, Form, Dialog, Input... 
 3 - Provide a great user UI/UX 
